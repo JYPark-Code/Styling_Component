@@ -8,7 +8,7 @@ Adding Warning CSS
 * No assignment in this project.
 * Prevent empty submit and emphasis label and input box on red. Soon you write any word, everything returns normal. 
 ### 설명:
-이번 Section 6 모듈에선 React에서는 Dynmamic 방식으로 CSS를 어떻게 적용시키는가? 
+이번 Section 6 모듈에선 React에서는 Dynamic 방식으로 CSS를 어떻게 적용시키는가? 
 css 파일명 앞에 module.css로 바꾸어서 Hash값으로 ClassName이 Dynamic하게 나오는 부분을 보았고,
 백틱을 이용한 State Control에 대해서도 배웠다. (\`\`)
 * Button과 CourseInput.js만 수업 진행 그 외 파일은 starting resource 그대로이다.
