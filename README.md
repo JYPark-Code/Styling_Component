@@ -9,7 +9,7 @@ Adding Warning CSS
 * Prevent empty submit and emphasis label and input box on red. Soon you write any word, everything returns normal. 
 ### 설명:
 이번 Section 6 모듈에선 React 사용 시 Dynamic 방식으로 CSS를 어떻게 적용시키는가?  
-css 파일명 앞에 module.css로 바꾸어서 Hash값으로 ClassName이 Dynamic하게 나오는 부분을 보았고, (*주의 사항: 기존 CSS처럼 import "./AAA.module.css"이 아닌 import styles from "./AAA.module.css"으로 지정해야된다는 점*)  
+css 파일명 앞에 module.css로 바꾸어서 Hash값으로 ClassName이 Dynamic하게 나오는 부분을 보았고, (**주의 사항: 기존 CSS처럼 import "./AAA.module.css"이 아닌 import styles from "./AAA.module.css"으로 지정해야된다는 점**)  
 백틱을 이용한 State Control에 대해서도 배웠다. ( \`\` )  
 * Button과 CourseInput.js만 수업 진행 그 외 파일은 starting resource 그대로이다.
 * 빈칸 제출 시 label과 input의 색깔이 빨간색으로 바뀌고 다시 작성 시 원래대로 돌아가며, 제출 가능하다.
